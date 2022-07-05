@@ -72,8 +72,8 @@ footer{
     }
     
     main{
-        width: 100px;
-        margin: 50px auto;
+        width: 100%;
+        margin-left: 5%;
         display: block;
     }
     
